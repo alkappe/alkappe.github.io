@@ -1,4 +1,4 @@
 # Alka Cappellazzo
 ## Artist
-# age 26
-![alt text](/path/to/sin.png)
+
+![alt text](/Users/alka/sitoalka/sin.png)
