@@ -41,7 +41,7 @@ body{
     width: 100%;
     
 }
-.prodotto{
+.pattern{
     width: 30%;
     transition: all 0.5s ease;
     padding: 5px;
@@ -49,15 +49,15 @@ body{
     float: left
     
 }
-.prodotto img{
+.pattern img{
     width: 100%;
     
 }
-.prodotto h1{
+.pattern h1{
     font-size:  25px;
     
 }
-.prodotto h2{
+.pattern h2{
     font-size: 15px;
 }
 #social li{
